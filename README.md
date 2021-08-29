@@ -8,7 +8,11 @@ This said, we need to edit, or refactor the solution code previously created to 
 
 ## Results
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
-Upon further review and following the provided instructions, the below changes were made to our previously created code
+Upon further review and following the provided instructions, the below changes were made to our previous script 
+
+![](Resources/All%20Stocks%20Analysis%20Refactored.PNG)
+
+
 
 
 Once those adjustments were made, I was able to rerun the macro and got the following results for the years 2017 and 2018 which matched our previous results from the initial script. 
