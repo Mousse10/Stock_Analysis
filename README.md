@@ -13,6 +13,8 @@ Upon further review and following the provided instructions, the below changes w
 
 Once those adjustments were made, I was able to rerun the macro and got the following results for the years 2017 and 2018 which matched our previous results from the initial script. 
 
+![](Resources/2017%20-%20Results.PNG)
+
 When I run the initial script, the timer results are longer in comparison to the timer when the new script is run. 
 
 ## Summary 
