@@ -7,7 +7,6 @@
 This said, we need to edit, or refactor the solution code previously created to loop through all the data one time in order to collect the same information. This would make our code more efficient by taking fewer steps, using less memory, or even improving the logic of the code to make it easier for future users to read.
 
 ## Results
-  Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 Upon further review and following the provided instructions, the below changes were made to our previous script 
 
 ![](Resources/All%20Stocks%20Analysis%20Refactored.PNG)
@@ -18,7 +17,7 @@ Once those adjustments were made, I was able to rerun the macro and got the foll
 
 ![](Resources/2017%20-%20Results.PNG) ![](Resources/2018%20-%20Results.PNG)
 
-When I run the initial script, the timer results are longer in comparison to the timer when the new script is run. 
+When I run the initial script, the timer results are longer in comparison to the timer when the new script is run. The adjustments made to the initial script haave resulted in a shorter run time. 
 
 ![](Resources/VBA_Challenge_2017.PNG)![](Resources/VBA_Challenge_2018.PNG)
 
