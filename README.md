@@ -20,7 +20,7 @@ Once those adjustments were made, I was able to rerun the macro and got the foll
 
 When I run the initial script, the timer results are longer in comparison to the timer when the new script is run. 
 
-![](Resources/VBA_Challenge_2017.PNG) 
+![](Resources/VBA_Challenge_2017.PNG)![](Resources/VBA_Challenge_2018.PNG)
 
 ## Summary 
 Some advantages of refactoring code include extensible code and maintainability. Code Refactoring makes the code more extensible for adding many other functions to it. It also helps in increasing both the flexibility and capability of code. After refactoring, the code is fresher, easier to understand or read, less complex and easier to maintain. Some disadvantages of refactoring code include the facts that it can be time consuming while also increasing the chances of mistakes. You may have no idea how much time it may take to complete the process. It may also land you into a situation where you have no idea where to go. In case it went wrong, you would have to waste much more time in solving the problem and there are probable chances that it may go wrong due to complexity of the code. Code Refactoring is a wise method of extending the code and making it more capable and in the same way it has some disadvantages. Refactoring the original VBA script was indeed time consuming due to the adjustments that were being made to the code.  The code then had to be tested in order to figure out what the problems or issues were in the end, refactoring allowed us to improve our code in regards to execution time and supporting a higher number of inputs and outputs.
